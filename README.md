@@ -3,9 +3,9 @@
   <img
     align="top"
     alt="Htet Oo's github stats"
-    src="https://github-readme-stats.vercel.app/api?username=HtetOoWaiYan&hide=stars&custom_title=Statistics&count_private=true&show_icons=true&hide_border=true&theme=graywhite#gh-light-mode-only"
+    src="https://github-readme-stats.vercel.app/api?username=HtetOoWaiYan&hide=stars&custom_title=Statistics&count_private=true&show_icons=true&hide_border=true&card_width=465px&theme=graywhite#gh-light-mode-only"
    />
- </a>
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img
     align="top"
@@ -19,9 +19,9 @@
   <img
     align="top"
     alt="Htet Oo's github stats"
-    src="https://github-readme-stats.vercel.app/api?username=HtetOoWaiYan&hide=stars&custom_title=Statistics&count_private=true&show_icons=true&hide_border=true&theme=graywhite#gh-dark-mode-only"
+    src="https://github-readme-stats.vercel.app/api?username=HtetOoWaiYan&hide=stars&custom_title=Statistics&count_private=true&show_icons=true&hide_border=true&card_width=465px&theme=graywhite#gh-dark-mode-only"
    />
- </a>
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img
     align="top"
